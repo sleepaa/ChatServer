@@ -1,0 +1,3 @@
+/home/xiaobai/tony/testmuduo/build/CMakeFiles/server.dir
+/home/xiaobai/tony/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/xiaobai/tony/testmuduo/build/CMakeFiles/rebuild_cache.dir
